@@ -15,12 +15,11 @@ public class Main extends Application {
     public void start(Stage Stage) throws Exception {
         Parent root = FXMLLoader.load(getClass().getResource("ContactApp.fxml"));
         Scene scene = new Scene(root);
-        Stage.setTitle("Tip Calculator");
+        Stage.setTitle("Contact App");
         Stage.setScene(scene);
         Stage.show();
 
     }
-
 
     public static void main(String[] args) {
         launch(args);

@@ -6,7 +6,7 @@
 <?import javafx.scene.layout.BorderPane?>
 <?import javafx.scene.web.WebView?>
 
-<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="500.0" prefWidth="720.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="MiniWebBrowser.MiniWebBrowserController">
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="500.0" prefWidth="720.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
     <center>
         <WebView fx:id="webView" prefHeight="405.0" prefWidth="871.0" BorderPane.alignment="CENTER" />
     </center>
@@ -16,7 +16,6 @@
                 <TextField fx:id="TextField" prefHeight="25.0" prefWidth="500.0" promptText="www.google.com" />
                 <Button fx:id="searchButton" mnemonicParsing="false" onAction="#search" prefHeight="25.0" prefWidth="86.0" text="Search" />
                 <Button fx:id="BButton" mnemonicParsing="false" onAction="#back" prefHeight="25.0" text="Back" />
-                <Button fx:id="NButton" mnemonicParsing="false" onAction="#next" prefHeight="25.0" text="Next" />
             </items>
         </ToolBar>
     </top>

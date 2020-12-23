@@ -12,7 +12,7 @@ public class BMICalculator extends Application {
     public void start(Stage Stage) throws Exception{
         Parent root = FXMLLoader.load(getClass().getResource("BMICalculator.fxml"));
         Scene scene = new Scene(root);
-        Stage.setTitle("Tip Calculator 2.0");
+        Stage.setTitle("BMI Calculator");
         Stage.setScene(scene);
         Stage.show();
     }

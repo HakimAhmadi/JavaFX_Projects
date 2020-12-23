@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../BMICalculator/src/sample/BMICalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BMICalculator/src/sample/BMICalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorChooserApp/out/production/ColorChooserApp/sample/Controller$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ColorChooserApp/out/production/ColorChooserApp/sample/Controller$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorChooserApp/out/production/ColorChooserApp/sample/Controller$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ColorChooserApp/out/production/ColorChooserApp/sample/Controller$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorChooserApp/out/production/ColorChooserApp/sample/Controller$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ColorChooserApp/out/production/ColorChooserApp/sample/Controller$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorChooserApp/out/production/ColorChooserApp/sample/Controller$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ColorChooserApp/out/production/ColorChooserApp/sample/Controller$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorChooserApp/out/production/ColorChooserApp/sample/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ColorChooserApp/out/production/ColorChooserApp/sample/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ContactApp/out/production/ContactApp/sample/Contacts.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ContactApp/out/production/ContactApp/sample/Contacts.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ContactApp/out/production/ContactApp/sample/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ContactApp/out/production/ContactApp/sample/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ContactApp/out/production/ContactApp/sample/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ContactApp/out/production/ContactApp/sample/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ContactApp/src/sample/Contacts.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ContactApp/src/sample/Contacts.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ContactApp/src/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ContactApp/src/sample/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ContactAppModification/out/production/ContactAppModification/sample/Controller$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ContactAppModification/out/production/ContactAppModification/sample/Controller$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ContactAppModification/out/production/ContactAppModification/sample/Controller$sortByLast.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ContactAppModification/out/production/ContactAppModification/sample/Controller$sortByLast.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ContactAppModification/out/production/ContactAppModification/sample/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ContactAppModification/out/production/ContactAppModification/sample/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ContactAppModification/out/production/ContactAppModification/sample/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ContactAppModification/out/production/ContactAppModification/sample/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ContactAppModification/src/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ContactAppModification/src/sample/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -169,7 +188,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dynamic.classpath" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../GUI/javafx-sdk-11.0.2/lib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -260,6 +279,7 @@
       <workItem from="1359379250712" duration="1302000" />
       <workItem from="1608684070258" duration="1739000" />
       <workItem from="1608686279535" duration="38000" />
+      <workItem from="1608746880524" duration="123000" />
     </task>
     <servers />
   </component>
