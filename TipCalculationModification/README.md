@@ -8,3 +8,4 @@ Softwares used in this app With its versions
 --> Java 11.0.8 
 --> SceneBuilder v-11.0
 
+![alt text](ScreenShots/01.png?raw=true "01") ![alt text](ScreenShots/02.png?raw=true "02") ![alt text](ScreenShots/03.png?raw=true "03") 
