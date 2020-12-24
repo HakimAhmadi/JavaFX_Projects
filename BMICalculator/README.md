@@ -8,3 +8,7 @@ Softwares used in this app With its versions
 --> Java 11.0.8 
 --> SceneBuilder v-11.0
 
+![Alt text](https://github.com/HakimAhmadi/JavaFX_Projects/tree/main/BMICalculator/AppScreenShots/01.png?raw=true "Title")
+<p align="center">
+  <img src="https://github.com/HakimAhmadi/JavaFX_Projects/tree/main/BMICalculator/AppScreenShots/02.png" width="350" title="hover text">
+</p>
