@@ -25,6 +25,7 @@ public class Controller {
 
     @FXML
     ArrayList<String> history = new ArrayList<>();
+    WebEngine webEngine = new WebEngine();
 
     @FXML
     void back(ActionEvent event) {
@@ -36,9 +37,12 @@ public class Controller {
     @FXML
     void search(ActionEvent event) {
         webView = new WebView();
-        WebEngine webEngine = webView.getEngine();
         history.add(TextField.getText());
-        webEngine.load(TextField.getText());
+        webEngine.load("http://"+TextField.getText());
+    }
+    public void initialize(){
+        webEngine = webView.getEngine();
+        webEngine.load("https://www.google.com");
     }
 
 }

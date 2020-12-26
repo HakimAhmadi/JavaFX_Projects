@@ -30,7 +30,7 @@
             <Insets right="5.0" />
          </GridPane.margin>
       </Label>
-      <Label fx:id="SliderView" alignment="CENTER_RIGHT" text="15%" GridPane.rowIndex="1">
+      <Label fx:id="SliderView" alignment="CENTER_RIGHT" text="0%" GridPane.rowIndex="1">
          <GridPane.margin>
             <Insets right="5.0" />
          </GridPane.margin>
